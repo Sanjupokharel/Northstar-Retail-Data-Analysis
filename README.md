@@ -136,7 +136,9 @@ Northstar-Retail-Data-Analysis/
 └── README.md
 
 
+## Power BI Dashboard Preview
 
+![Northstar Retail Power BI Dashboard](Northstar_Retail_Dashboard.png)
 
 
 
