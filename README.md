@@ -116,7 +116,7 @@ Use monthly sales trends to support inventory planning, demand forecasting, and 
 ## Project Structure
 
 
-
+```
 
 
 Northstar-Retail-Data-Analysis/
@@ -133,7 +133,10 @@ Northstar-Retail-Data-Analysis/
 
 ├── Northstar\_Retail\_Dashboard.pbix
 
+├── Northstar_Retail_Dashboard.png
+
 └── README.md
+```
 
 
 ## Power BI Dashboard Preview
